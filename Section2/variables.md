@@ -1,7 +1,6 @@
 # varsdemo.tf
 
-{
-
+```sh
 resource "aws_security_group" "var_demo" {
 
   name        = "terraform-variables"
@@ -48,6 +47,7 @@ resource "aws_security_group" "var_demo" {
 }
 
 }
+```
 
 # variables.tf
 
