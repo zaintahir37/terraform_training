@@ -12,3 +12,8 @@ resource "aws_instance" "myEC2" {
     Name = "helloWorld"
   }
 }
+
+# commands
+# terraform init
+# terraform plan
+# terraform apply
