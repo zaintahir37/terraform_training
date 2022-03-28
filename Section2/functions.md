@@ -1,8 +1,11 @@
 ## Functions
 
 Functions executed in this file:
+
 -- formatdate
+
 -- lookup
+
 
 The lookup function in this file: 
 
